@@ -9,7 +9,7 @@
 
 ### ⚙️ Estrutura das pastas
 
-![Estrutura](/util/estrutura.png)
+![estrutura](/util/estrutura.png)
 
 ### 🛠 Tecnologias
 
